@@ -1,0 +1,2 @@
+# DigitalBiodiversityKaraganda
+Цифровые технологии в исследовании биоразнообразия
