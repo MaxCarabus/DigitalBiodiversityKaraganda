@@ -14,6 +14,6 @@
 ["Digital Biodiversity"](https://t.me/+SmlsQuUsZpg1ZmQy)
 
 ## iNaturalist
-[Очень краткая инструкция по использованию мобильного приложения](https://www.youtube.com/watch?v=xENz1xRu0wI)
+[Очень краткая инструкция "Как использовать мобильное приложение"](https://www.youtube.com/watch?v=xENz1xRu0wI)
 
 [проект "Природа Казахстана"](https://www.inaturalist.org/projects/nature-of-kazakhstan)
