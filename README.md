@@ -19,3 +19,5 @@
 [Как создавать наблюдения в iNaturalist, загружая фотографии через сайт](https://www.youtube.com/watch?v=TIRGpO2R7uQ)
 
 [проект "Природа Казахстана"](https://www.inaturalist.org/projects/nature-of-kazakhstan)
+
+[проект учебного курса в iNaturalist - Bioblitz](https://www.inaturalist.org/projects/digital-biodiversity-karaganda-2022)
