@@ -16,4 +16,6 @@
 ## iNaturalist
 [Очень краткая инструкция "Как использовать мобильное приложение"](https://www.youtube.com/watch?v=xENz1xRu0wI)
 
+[Как создавать наблюдения в iNaturalist, загружая фотографии через сайт](https://www.youtube.com/watch?v=TIRGpO2R7uQ)
+
 [проект "Природа Казахстана"](https://www.inaturalist.org/projects/nature-of-kazakhstan)
