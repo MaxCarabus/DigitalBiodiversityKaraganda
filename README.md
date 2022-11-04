@@ -24,3 +24,5 @@
 
 ## Индивидуальный проект
 [План работы](https://github.com/MaxCarabus/DigitalBiodiversityKaraganda/blob/main/Personal_Project.pdf)
+
+[Таблица: выбор группы и территории](https://docs.google.com/spreadsheets/d/1OXBdYKt9v-VYWSgE6d7voh3nqk2CIw9VVwKSnqaeNNA)
