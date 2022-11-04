@@ -21,3 +21,6 @@
 [проект "Природа Казахстана"](https://www.inaturalist.org/projects/nature-of-kazakhstan)
 
 [проект учебного курса в iNaturalist - Bioblitz](https://www.inaturalist.org/projects/digital-biodiversity-karaganda-2022)
+
+## Индивидуальный проект
+[План работы](https://github.com/MaxCarabus/DigitalBiodiversityKaraganda/blob/main/Personal_Project.pdf)
