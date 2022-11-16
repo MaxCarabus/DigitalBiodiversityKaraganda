@@ -13,7 +13,7 @@
 
 2. [Интегрированная среда разнаботки (IDE) R-Studio](https://posit.co/downloads/) 
 
-3. [QGIS](https://www.qgis.org/en/site/)
+3. [Открытая геоинформационная система QGIS](https://www.qgis.org/en/site/)
 
 4. [Простой текстовый редактов Notepad++](https://notepad-plus-plus.org/downloads/)
 
